@@ -1,1 +1,1 @@
-# gu-ai-1-python
+## Repository for Geek University AI 1Q Python
